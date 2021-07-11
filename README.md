@@ -6,7 +6,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)
 
-<br />
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
 Here are some ideas to get you started:
