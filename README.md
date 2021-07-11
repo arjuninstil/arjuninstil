@@ -4,7 +4,7 @@
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/arjun89">
-  <img align="left" alt="Arjun's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
+  <img align="left" alt="Arjun's Kaggle" width="22px" src="https://github.com/arjuninstil/arjuninstil/blob/main/kaggle.png" />
 </a>
 <a href="https://twitter.com/ya_rjun">
   <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
