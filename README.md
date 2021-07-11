@@ -3,7 +3,10 @@
 <a href="https://www.linkedin.com/in/arjunnairb/">
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)
+
+<br />
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
