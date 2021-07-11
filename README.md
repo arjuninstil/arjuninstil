@@ -1,7 +1,7 @@
-### Hi there Arjun here 👋
+### Hi there, Arjun here 👋
 
 
-I'm based out of Germany, currently working as a Data Scientist with Mercedes-Bez
+I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
 Here are some ideas to get you started:
 
