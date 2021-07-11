@@ -16,7 +16,7 @@
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
 
-<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="400" height="220" />
 
 
 - 🔭 I’m currently working on *Forecasting / Time Series*
