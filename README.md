@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/arjunnairb/">
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://twitter.com/ya_rjun">
+  <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)
 
