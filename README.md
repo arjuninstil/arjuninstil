@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about *IoT Data*
 - 📫 How to reach me: : <a href="mailto:arjuninstil@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="2.5%"/> </a>
 - 😄 Pronouns: ...
-- ⚡ Fun fact: :tennis:   /   :racing_car:   /   :airplane::earth_americas:
+- ⚡ Fun fact: :tennis:  :racing_car:  :airplane::earth_americas:
 
