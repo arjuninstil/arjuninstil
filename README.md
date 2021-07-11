@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on *any Data Science / ML Topic*
 - 🤔 I’m looking for help with *Multi dimentional Time Series data*
 - 💬 Ask me about *IoT Data*
-- 📫 How to reach me: arjuninstil@gmail.com :email:
+- 📫 How to reach me: [:e-mail:](arjuninstil@gmail.com )
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
