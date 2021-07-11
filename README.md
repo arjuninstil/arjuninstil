@@ -1,5 +1,6 @@
 ### Hi there, Arjun here 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
