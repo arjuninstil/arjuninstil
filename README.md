@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/arjunnairb/">
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.kaggle.com/arjun89">
+  <img align="left" alt="Arjun's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
+</a>
 <a href="https://twitter.com/ya_rjun">
   <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -12,7 +15,6 @@
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
-<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on *Forecasting / Time Series*
 - 🌱 I’m currently learning *Microsoft Azure Capabilities*
@@ -23,3 +25,4 @@ I'm based out of Germany, currently working as a ***Data Scientist*** with ***Me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: :tennis:  :racing_car:  :airplane::earth_americas:
 
+<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
