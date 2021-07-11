@@ -14,8 +14,6 @@ I'm based out of Germany, currently working as a ***Data Scientist*** with ***Me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on *Forecasting / Time Series*
 - 🌱 I’m currently learning *Microsoft Azure Capabilities*
 - 👯 I’m looking to collaborate on *any Data Science / ML Topic*
