@@ -10,7 +10,7 @@
   <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
+#![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
 ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
