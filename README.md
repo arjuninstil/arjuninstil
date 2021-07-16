@@ -11,7 +11,7 @@
 </a>
 
 ![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
-![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil) https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge
+![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
