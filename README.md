@@ -10,11 +10,10 @@
   <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<!--  ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)-->
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
-
-
-<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 - 🔭 I’m currently working on *Forecasting / Time Series*
@@ -27,5 +26,4 @@ I'm based out of Germany, currently working as a ***Data Scientist*** with ***Me
 - ⚡ Fun fact: :tennis:  :racing_car:  :airplane::earth_americas:
 
 
-![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
-<!--  ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)-->
+<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
