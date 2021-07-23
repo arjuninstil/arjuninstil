@@ -20,7 +20,7 @@ I'm based out of Germany, currently working as a ***Data Scientist*** with ***Me
 - 🔭 I’m currently working on *Forecasting / Time Series*
 - 🌱 I’m currently learning *Microsoft Azure Capabilities*
 - 👯 I’m looking to collaborate on *any Data Science / ML Topic*
-- 🤔 I’m looking for help with *Multi dimentional Time Series data*
+- 🤔 I’m looking for help with *Multi dimensional Time Series data*
 - 💬 Ask me about *IoT Data*
 - 📫 How to reach me: : <a href="mailto:arjuninstil@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="2.5%"/> </a>
 - 😄 Pronouns: ...
