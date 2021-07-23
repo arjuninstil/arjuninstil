@@ -10,8 +10,6 @@
   <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
-<!--  ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)-->
 
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
 
@@ -27,3 +25,7 @@ I'm based out of Germany, currently working as a ***Data Scientist*** with ***Me
 - 📫 How to reach me: : <a href="mailto:arjuninstil@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="2.5%"/> </a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: :tennis:  :racing_car:  :airplane::earth_americas:
+
+
+![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<!--  ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)-->
