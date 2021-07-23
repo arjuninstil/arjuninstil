@@ -16,11 +16,12 @@
 I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz*** 
 
 
-- 🔭 I’m currently working on *Forecasting / Time Series*
-- 🌱 I’m currently learning *Microsoft Azure Capabilities*
 
 <img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
 
+
+- 🔭 I’m currently working on *Forecasting / Time Series*
+- 🌱 I’m currently learning *Microsoft Azure Capabilities*
 - 👯 I’m looking to collaborate on *any Data Science / ML Topic*
 - 🤔 I’m looking for help with *Multi dimentional Time Series data*
 - 💬 Ask me about *IoT Data*
