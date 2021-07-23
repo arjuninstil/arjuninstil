@@ -13,7 +13,7 @@
 ![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!--  ![](https://visitor-badge.glitch.me/badge?page_id=arjuninstil.arjuninstil)-->
 
-I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***
+I'm based out of Germany, currently working as a ***Data Scientist*** with ***Mercedes-Benz***  <img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 - 🔭 I’m currently working on *Forecasting / Time Series*
@@ -26,4 +26,4 @@ I'm based out of Germany, currently working as a ***Data Scientist*** with ***Me
 - ⚡ Fun fact: :tennis:  :racing_car:  :airplane::earth_americas:
 
 
-<img align="right" alt="GIF" src="https://github.com/arjuninstil/arjuninstil/blob/main/code.gif?raw=true" width="500" height="320" />
+
