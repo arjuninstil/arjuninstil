@@ -1,13 +1,13 @@
 ### Hi there, Arjun here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/arjunnairb/">
-  <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://github.com/arjuninstil/arjuninstil/blob/main/linkedin.png" />
 </a>
 <a href="https://www.kaggle.com/arjun89">
   <img align="left" alt="Arjun's Kaggle" width="21px" src="https://github.com/arjuninstil/arjuninstil/blob/main/kaggle.png" />
 </a>
 <a href="https://twitter.com/ya_rjun">
-  <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Arjun Nair | Twitter" width="22px" src="https://github.com/arjuninstil/arjuninstil/blob/main/twitter.png" />
 </a>
 
 ![](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge)
